@@ -1,0 +1,12 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LTE-302
+D Infrared Emitter
+K LED
+$ENDCMP
+#
+$CMP LTR-301
+D IR Detector, IR Phototransistor
+$ENDCMP
+#
+#End Doc Library
