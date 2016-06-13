@@ -1,4 +1,4 @@
-update=Sun 12 Jun 2016 07:39:40 PM CDT
+update=Sun 12 Jun 2016 07:56:48 PM CDT
 version=1
 last_client=kicad
 [pcbnew]
@@ -27,7 +27,7 @@ NetIExt=net
 version=1
 [eeschema]
 version=1
-LibDir=
+LibDir=../rpi3_connector
 [eeschema/libraries]
 LibName1=power
 LibName2=device
@@ -59,3 +59,4 @@ LibName27=atmel
 LibName28=contrib
 LibName29=valves
 LibName30=ir_module
+LibName31=rpi_hat
